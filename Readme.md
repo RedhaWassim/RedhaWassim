@@ -4,10 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Machine Learning engineer
 -------------------------
 
-I am a currently doing my last year of my master's in Artificial Intelligence in the university of USTHB, Algeria .
-
-
-Contributor to the LangChain Library.
+I am a currently doing my last year of my master's in Artificial Intelligence in the university of USTHB, Algeria . Contributor to the LangChain Library .
 
 * 🌍  I'm based in Algeria
 * ✉️  You can contact me at [bra.rwassim@gmail.com](mailto:bra.rwassim@gmail.com)
@@ -28,10 +25,6 @@ Contributor to the LangChain Library.
 <p align="left"> <a href="https://www.github.com/RedhaWassim" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/redha-wassim-brahimi-67a526224/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/redha_wassim" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/RedhaWassim"><img src="https://github-readme-stats.vercel.app/api?username=RedhaWassim&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&show_icons=true" alt="RedhaWassim's GitHub stats" /></a>
 
 <b>Top Repositories</b>
 
