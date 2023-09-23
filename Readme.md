@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Machine Learning engineer
 -------------------------
 
-I am a currently doing my last year of my master's in Artificial Intelligence in the university of USTHB, Algeria . Contributor to the LangChain Library .
+I am a currently doing my last year of my master's in Artificial Intelligence in the university of USTHB, Algeria .
+
+Contributor to the LangChain Library .
 
 * 🌍  I'm based in Algeria
 * ✉️  You can contact me at [bra.rwassim@gmail.com](mailto:bra.rwassim@gmail.com)
